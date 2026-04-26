@@ -12,10 +12,10 @@ Conditional logic
 
 # SCRIPT WRITING HOMEWORK
 SCRIPT_WRITING-HOMEWORK_DUE_BEFORE_4_25_2026/
-├── myargs.sh
-├── README.md
-├── SCRIPT_WRITING_HOMEWORK.sh
-└── tellage.sh
+├── SCRIPT_WRITING_HOMEWORK.sh  
+├── myargs.sh 
+├── tellage.sh 
+└── README.md 
 
 # 1-File Type Checker
 
