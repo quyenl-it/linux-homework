@@ -1,9 +1,0 @@
-#!/bin/bash
-
-menu() {
-    echo "======================"
-    echo "BACKUP SYSTEM START"
-    echo "======================"
-    read -p "Enter your name: " name
-    echo "Hello $name"
-}
